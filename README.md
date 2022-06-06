@@ -1,1 +1,1 @@
-# my_first_code
+# ml model to predict the sales 
